@@ -19,7 +19,7 @@ A lightweight system tray application that captures your voice, transcribes it u
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/vtc.git
+git clone https://github.com/zeewhy2/vtc.git
 cd vtc
 
 # Install dependencies
